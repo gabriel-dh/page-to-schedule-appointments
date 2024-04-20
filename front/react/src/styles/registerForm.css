@@ -1,0 +1,49 @@
+.title{
+    color: #fff;
+    margin-top: -30px;
+
+}
+
+.register-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1250px;
+    flex-direction: column;
+
+}
+
+.form {
+    width: 500px; /* Ancho máximo del formulario */
+    margin: auto; /* Centra el formulario en la página */
+    padding: 20px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Borde del formulario */
+    border-radius: 5px; /* Bordes redondeados */
+    background-color: #f9f9f9; /* Color de fondo */
+    height: 450px;
+    overflow: scroll;
+    
+  }
+  
+  .form-group {
+    margin-bottom: 15px; /* Espaciado entre grupos de campos */
+  }
+  
+  .form-group label {
+    display: block; /* Muestra las etiquetas en bloque */
+    margin-bottom: 5px; /* Espaciado inferior de las etiquetas */
+    color: #000;
+  }
+  
+  .form-group input {
+    width: 100%; /* Ancho completo del campo de entrada */
+    padding: 10px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Borde del campo de entrada */
+    border-radius: 5px; /* Bordes redondeados */
+    box-sizing: border-box; /* Incluye el padding en el ancho */
+  }
+  
+  .submit-btn {
+    background-color: #007bff; /* Color de fondo del botón */
+    color: #fff
+  }  

@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #333; /* Color de fondo */
+    padding: 10px 20px; /* Espaciado interno */
+  }
+  
+  .navbar-list {
+    list-style: none; /* Quita los puntos de lista */
+    padding: 0;
+    margin: 0;
+    display: flex; /* Muestra los elementos en línea */
+  }
+  
+  .navbar-item {
+    margin-right: 10px; /* Espaciado entre elementos */
+  }
+  
+  .navbar-link {
+    color: #fff; /* Color del texto */
+    text-decoration: none; /* Quita el subrayado */
+  }
+  

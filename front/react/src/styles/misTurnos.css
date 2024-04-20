@@ -1,0 +1,27 @@
+.mis-turnos-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .turno-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .turno-item span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .turno-item button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
